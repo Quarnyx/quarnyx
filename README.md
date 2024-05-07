@@ -1,6 +1,6 @@
 <h1 aligh="center">Nyan-Nyan <///> I'am <b>Quarnyx</b></h1>
-# 💫 About Me:
-A lazy web programmer
+
+<h2>A lazy web programmer</h2>
 
 
 ## 🌐 Socials:
