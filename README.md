@@ -1,4 +1,4 @@
-<h1 aligh="center">Nyan-Nyan <///> I'am <b>Quarnyx</b></h1>
+<h1 aligh="center">Hi</h1>
 
 <h2>A lazy web programmer</h2>
 
