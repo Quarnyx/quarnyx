@@ -1,6 +1,6 @@
 <h1 aligh="center">Hi</h1>
 
-<h2>A lazy web programmer</h2>
+<h2>A lazy web programmer, nothing to see here</h2>
 
 
 ## 🌐 Socials:
